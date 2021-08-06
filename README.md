@@ -1,7 +1,7 @@
 ## 
 - 👋 Olá! Eu sou o Rubens Costa
 - 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Estudando Python
+- 🐍 Estudando Python
 
  <div>
   <a href="https://github.com/Rubens-Costa">
