@@ -1,6 +1,6 @@
 ## 
 - 👋 Olá! Eu sou o Rubens Costa
-- 👀 Estou interessado em Desenvolvimento Web
+- 👀 De olho na Qualidade de Software
 - 🐍 Estudando Python
 
  <div>
