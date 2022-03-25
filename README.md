@@ -1,7 +1,7 @@
 ## 
 - 👋 Olá! Eu sou o Rubens Costa
 - 👀 De olho na Qualidade de Software
-- 👨🏾‍💻 Estudando Java/Junit/C#/Xunit
+- 👨🏾‍💻 Estudando Java/Junit/.Net/Xunit
 
  <div>
   <a href="https://github.com/rubens-costa">
