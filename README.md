@@ -1,5 +1,5 @@
 ## 
-- 👋 Olá! Eu sou o Rubens Costa
+- 👋 Olá! Me chamo Rubens Costa
 - 👀 De olho na Qualidade de Software
 - 👨🏾‍💻 Estudando C#/.Net
 
