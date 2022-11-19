@@ -1,7 +1,7 @@
 ## 
 - 👋 Olá! Me chamo Rubens Costa
 - 👀 De olho na Qualidade de Software
-- 👨🏾‍💻 C#|.Net|Cypress|JavaScript
+- 👨🏾‍💻 C# | .Net | Cypress | JavaScript
 
  <div>
   <a href="https://github.com/rubens-costa">
